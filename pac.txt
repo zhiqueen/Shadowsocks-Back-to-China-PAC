@@ -84,8 +84,8 @@ var rules = [
 //七牛
   "||qiniu.com",
 //测试大陆境内访问IP地址
-  "||ip138.com"
-  "||ipip.net"
+  "||ip138.com",
+  "||ipip.net",
 ];
 
 /*
